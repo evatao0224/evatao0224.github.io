@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Peiyuan Tao Game Localization
+title: Game Localization
 
 # Your name to show in the footer
 author: Peiyuan Tao
@@ -21,10 +21,9 @@ author: Peiyuan Tao
 
 navbar-links:
   About Me: "aboutme"
-  Find Me:
-    - Steam: "https://steamcommunity.com/profiles/76561198189397727/"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Contact: "https://deanattali.com"
+  My Steam Page: "https://steamcommunity.com/profiles/76561198189397727/"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Contact: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -89,7 +88,7 @@ title-on-all-pages: true
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
