@@ -20,6 +20,7 @@ author: Peiyuan Tao
 ###############################################
 
 navbar-links:
+  Posts: "posts"
   About Me: "aboutme"
   My Steam Page: "https://steamcommunity.com/profiles/76561198189397727/"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
