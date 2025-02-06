@@ -1,14 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to work with me
 ---
 
-My name is Peiyuan Tao. Here are a few things you might be interested about me:
+Hi there!
 
-- I've worked on 20+ games
-- I've played 300+ games
+Here are a few things about me that you may find interesting:
+
+- **I've worked on 20+ games** with teams around the world with different cultural backgrounds.
+- Among the 300+ games I've played, my favorite one has always been [_The Witness_](https://store.steampowered.com/app/210970/The_Witness/) by Jonathan Blow.
 - I'm a Geoguessr player, if you know what that is :)
-- I speak 4 languages: English, Chinese, Spanish and Japanese
+- I speak 3 languages: English, Chinese, Spanish. And I'm currently learning Japanese and French.
 
 The list will be updated (hopefully) on a monthly basis.
