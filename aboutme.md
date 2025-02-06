@@ -13,6 +13,6 @@ Here're a few things about me that you may find interesting:
 - I'm also a Geoguessr player, if you know what that is :)
 
 
-The list will be updated (hopefully) on a monthly basis.
+This list will be updated (hopefully) on a monthly basis.
 
 If you're interested in collaborating or simply talking about games or language-learning, feel free to contact me through the email button at the bottom of the page.
